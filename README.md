@@ -1,7 +1,7 @@
 
 
 
-### Hi , I am Kevin Patel
+### 
 
 ## I'm Yoana Slavcheva.
 
