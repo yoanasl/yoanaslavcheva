@@ -14,5 +14,3 @@
 <p align="left">
  
  <a href="https://www.linkedin.com/in/yoana-slavcheva-96a7821b7/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://www.facebook.com/profile.php?id=100032706876081" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/yoanaslavcheva/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
