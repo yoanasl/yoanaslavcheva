@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Studying Computer & Sofrware Engineering at Technical University.
 - 💬 I love connecting with different people.
-- 🌱 I’m currently learning C#.
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
